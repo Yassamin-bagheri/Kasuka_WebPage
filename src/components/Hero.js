@@ -18,6 +18,7 @@ const heroFeatures = [
     title: "Secure Solutions",
   },
 ];
+// hero
 
 function Hero() {
   return (
