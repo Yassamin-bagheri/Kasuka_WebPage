@@ -18,7 +18,6 @@ const heroFeatures = [
     title: "Secure Solutions",
   },
 ];
-// hero
 
 function Hero() {
   return (
@@ -48,7 +47,8 @@ function Hero() {
           </h1>
 
           <p className="mt-6 flex flex-col leading-8 text-gray-300 sm:text-lg">
-            We build modern, scalable and high-performance digital experiences<br/>
+            We build modern, scalable and high-performance digital experiences
+            <br />
             that help businesses grow and succeed.
           </p>
 
